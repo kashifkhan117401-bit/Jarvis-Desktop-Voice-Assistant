@@ -85,15 +85,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## 📌Author
 
-👤 **Krishna Rajput**
-- Twitter: [@kishan_rajput23](https://twitter.com/kishan_rajput23)
-- Github: [@kishanrajput23](https://github.com/kishanrajput23)
-- LinkedIn: [@kishan-kumar-rai](https://linkedin.com/in/kishan-kumar-rai-23112000)
-
-  
-**fork With**
-
-**Kashif Hafeez**
+👤**Kashif Hafeez**
 - Github:[ (https://github.com/kashifkhan117401-bit))](https://github.com/kashifkhan117401-bit)
 - LinkedIn: www.linkedin.com/in/kashif-hafeez-545794330
 
