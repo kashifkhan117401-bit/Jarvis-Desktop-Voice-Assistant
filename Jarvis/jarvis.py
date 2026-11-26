@@ -72,7 +72,7 @@ def takecommand() -> str:
     r = sr.Recognizer()
     with sr.Microphone() as source:
         print("Listening...")
-        r.pause_threshold = 1
+        r.pause_threshold = 1 
 
         try:
             audio = r.listen(source, timeout=5)  # Listen with a timeout
