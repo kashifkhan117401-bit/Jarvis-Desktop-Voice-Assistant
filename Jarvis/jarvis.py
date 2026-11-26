@@ -42,7 +42,7 @@ def wishme() -> None:
     print("Welcome back, sir!")
 
     hour = datetime.datetime.now().hour
-    if 4 <= hour < 12:
+    if 4 <= hour < 12: 
         speak("Good morning!")
         print("Good morning!")
     elif 12 <= hour < 16:
