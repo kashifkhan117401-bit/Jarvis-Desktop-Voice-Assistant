@@ -182,7 +182,7 @@ if __name__ == "__main__":
             speak("I've taken screenshot, please check it")
 
         elif "tell me a joke" in query:
-            joke = pyjokes.get_joke()
+            joke = pyjokes.get_joke() 
             speak(joke)
             print(joke)
 
