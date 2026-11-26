@@ -69,7 +69,7 @@ def screenshot() -> None:
 
 def takecommand() -> str:
     """Takes microphone input from the user and returns it as text."""
-    r = sr.Recognizer()
+    r = sr.Recognizer() 
     with sr.Microphone() as source:
         print("Listening...")
         r.pause_threshold = 1 
